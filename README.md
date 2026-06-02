@@ -47,6 +47,12 @@ I design and operate large-scale observability platforms. Currently leading a gl
 
 ---
 
+## Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shipsolid&theme=react-dark&hide_border=true&area=true)
+
+---
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amitsingh007s-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitsingh007s)
