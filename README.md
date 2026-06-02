@@ -55,8 +55,4 @@ I design and operate large-scale observability platforms. Currently leading a gl
 
 ---
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shipsolid&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
-
 Views are my own. All implementations are personal/lab work, not employer IP.
