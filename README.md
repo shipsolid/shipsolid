@@ -1,12 +1,12 @@
 # Amit Singh
 
-**Observability Architect · Patent Holder · SRE @ Scale**
+## Observability Architect · Patent Holder · SRE @ Scale
 
 > Grafana Cloud · OpenTelemetry · Kubernetes · Terraform · Azure
 
 ---
 
-I design and operate large-scale observability platforms. Currently leading a global observability transformation at **McCain Foods** — 200+ workloads across Azure, on-premises, and SAP RISE — reducing observability provisioning time **from 3 days to 30 minutes** using Grafana Cloud and OpenTelemetry.
+I design and operate large-scale observability platforms. Currently leading a global observability transformation at **McCain Foods** — 200+ workloads across Azure, on-premises, and SAP RISE — reducing observability provisioning time **from 3 days to 30 minutes**, AIOps alert noise by **80%+**, and SNOW ticket volume by **~60%**, using Grafana Cloud and OpenTelemetry.
 
 📄 **Patent holder** in the observability domain.  
 🕐 14 years across full-stack, performance engineering, platform engineering, and SRE.
@@ -16,9 +16,9 @@ I design and operate large-scale observability platforms. Currently leading a gl
 ## What I Build
 
 | Project | Description |
-|---|---|
-| **SignalForge** | End-to-end OTel reference lab — Angular Faro, .NET gateway + order service (gRPC/RabbitMQ), Python FastAPI, Grafana Alloy DaemonSet |
-| **Runway IDP** | Internal Developer Platform — Backstage + ArgoCD + Crossplane + Kubernetes + full OTel/Grafana observability stack |
+| --- | --- |
+| **SignalForge** *(private)* | End-to-end OTel reference lab — Angular Faro, .NET gateway + order service (gRPC/RabbitMQ), Python FastAPI, Grafana Alloy DaemonSet |
+| **Runway IDP** *(private)* | Internal Developer Platform — Backstage + ArgoCD + Crossplane + Kubernetes + full OTel/Grafana observability stack |
 | [**app.grafana.cloud.impl.2**](https://github.com/shipsolid/app.grafana.cloud.impl.2) | 54-file Terraform IaC for Grafana Cloud stack management — Azure Blob state backend, GitHub Actions CI/CD |
 | [**architect-learning-lab**](https://github.com/shipsolid/architect-learning-lab) | Staff/Principal-level architecture patterns, system design prep, and SRE runbooks |
 
@@ -42,14 +42,12 @@ I design and operate large-scale observability platforms. Currently leading a gl
 ## Currently
 
 - Building **AIOps + LLMOps** tooling as a differentiated observability layer
-- Contributing to CNCF ecosystem tooling (OpenTelemetry, Grafana Alloy)
-- Targeting **Principal/Staff SRE** roles in distributed systems
+- Actively engaged with the CNCF ecosystem — OpenTelemetry, Grafana Alloy
+- Open to **Principal/Staff SRE and Observability Architect** opportunities in distributed systems
 
 ---
 
-## Writing
-
-Deep-dives on observability architecture, CNCF tooling, anti-patterns, and SRE at scale.
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amitsingh007s-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amitsingh007s)
 [![X](https://img.shields.io/badge/X-@amitsingh007s-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/amitsingh007s)
@@ -61,4 +59,4 @@ Deep-dives on observability architecture, CNCF tooling, anti-patterns, and SRE a
 
 ---
 
-<sub>Views are my own. All implementations are personal/lab work, not employer IP.</sub>
+Views are my own. All implementations are personal/lab work, not employer IP.
