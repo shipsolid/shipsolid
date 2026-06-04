@@ -30,6 +30,8 @@ I design and operate large-scale observability platforms. Currently leading a gl
 | **devx-runway-backstage** _(private)_               | NA                                                                                                                       |
 | **aiops-llm-wiki** _(private)_                      | NA                                                                                                                       |
 | **aiops-llm-local** _(private)_                     | NA                                                                                                                       |
+| **aiops-sre-agent** _(private)_                     | NA                                                                                                                       |
+| **aiops-sre-assistant-v1** _(private)_              | NA                                                                                                                       |
 
 ---
 
