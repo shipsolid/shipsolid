@@ -32,6 +32,11 @@ I design and operate large-scale observability platforms. Currently leading a gl
 | **aiops-llm-local** _(private)_                     | NA                                                                                                                       |
 | **aiops-sre-agent** _(private)_                     | NA                                                                                                                       |
 | **aiops-sre-assistant-v1** _(private)_              | NA                                                                                                                       |
+| **observability-samples** _(private)_               | NA                                                                                                                       |
+| **ai-observability-platform** _(private)_           | NA                                                                                                                       |
+| **platform-samples** _(private)_                    | NA                                                                                                                       |
+| **app-samples** _(private)_                         | NA                                                                                                                       |
+| **app-fake-store-ingestor-dotnet** _(private)_      | NA                                                                                                                       |
 
 ---
 
