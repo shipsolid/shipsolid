@@ -21,6 +21,7 @@ I design and operate large-scale observability platforms. Currently leading a gl
 | **app-online-boutique** _(private)_                 | Polyglot microservices demo — instrumented reference app for canary deployments and observability validation             |
 | **app-buddha** _(private)_                          | .NET microservice with full OpenTelemetry instrumentation — traces, metrics, structured logs                             |
 | **app-saha-ai** _(private)_                         | NA                                                                                                                       |
+| **app-fake-store-ingestor-dotnet** _(private)_      | NA                                                                                                                       |
 | **platform-k8s-infra-terraform** _(private)_        | Azure platform Terraform — AKS, VNet, Key Vault modules; OPA/Rego policies; Infracost budgets                            |
 | **platform-k8s-runtime** _(private)_                | GitOps delivery platform — ArgoCD + Argo Rollouts canary, reusable GitHub Actions workflows                              |
 | **platform-grafana-cloud-terraform** _(private)_    | HCP Terraform + VCS-driven Grafana Cloud management — Azure Blob state, PR-gated environment promotion                   |
@@ -32,11 +33,10 @@ I design and operate large-scale observability platforms. Currently leading a gl
 | **aiops-llm-local** _(private)_                     | NA                                                                                                                       |
 | **aiops-sre-agent** _(private)_                     | NA                                                                                                                       |
 | **aiops-sre-assistant-v1** _(private)_              | NA                                                                                                                       |
-| **observability-samples** _(private)_               | NA                                                                                                                       |
 | **ai-observability-platform** _(private)_           | NA                                                                                                                       |
+| **observability-samples** _(private)_               | NA                                                                                                                       |
 | **platform-samples** _(private)_                    | NA                                                                                                                       |
 | **app-samples** _(private)_                         | NA                                                                                                                       |
-| **app-fake-store-ingestor-dotnet** _(private)_      | NA                                                                                                                       |
 
 ---
 
