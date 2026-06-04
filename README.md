@@ -18,14 +18,18 @@ I design and operate large-scale observability platforms. Currently leading a gl
 | Project                                             | Description                                                                                                              |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **app-signal-forge** _(private)_                    | End-to-end OTel reference lab — Angular Faro, .NET gRPC services, Python FastAPI, RabbitMQ, Grafana Alloy DaemonSet      |
-| **app-buddha** _(private)_                          | .NET microservice with full OpenTelemetry instrumentation — traces, metrics, structured logs                             |
 | **app-online-boutique** _(private)_                 | Polyglot microservices demo — instrumented reference app for canary deployments and observability validation             |
+| **app-buddha** _(private)_                          | .NET microservice with full OpenTelemetry instrumentation — traces, metrics, structured logs                             |
+| **app-saha-ai** _(private)_                         | NA                                                                                                                       |
 | **platform-k8s-infra-terraform** _(private)_        | Azure platform Terraform — AKS, VNet, Key Vault modules; OPA/Rego policies; Infracost budgets                            |
 | **platform-k8s-runtime** _(private)_                | GitOps delivery platform — ArgoCD + Argo Rollouts canary, reusable GitHub Actions workflows                              |
 | **platform-grafana-cloud-terraform** _(private)_    | HCP Terraform + VCS-driven Grafana Cloud management — Azure Blob state, PR-gated environment promotion                   |
 | **platform-grafana-cloud-terraform-v1** _(private)_ | Jinja2-rendered Terraform stack for Grafana Cloud — dual-environment (dev/prod) with `tf.sh` CLI driver                  |
 | **reliability** _(private)_                         | SRE practice surface — SLO/SLI catalog, error-budget policy, chaos runbooks, incident response, post-mortems             |
 | **observability** _(private)_                       | Production Grafana Cloud observability platform — Alloy pipelines, alert packs, synthetic monitoring, OPA conftest gates |
+| **devx-runway-backstage** _(private)_               | NA                                                                                                                       |
+| **aiops-llm-wiki** _(private)_                      | NA                                                                                                                       |
+| **aiops-llm-local** _(private)_                     | NA                                                                                                                       |
 
 ---
 
