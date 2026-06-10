@@ -6,7 +6,10 @@
 
 ---
 
-I design and operate large-scale observability platforms. Currently leading a global observability transformation at **McCain Foods** — 200+ workloads across Azure, on-premises, and SAP RISE — reducing observability provisioning time **from 3 days to 30 minutes**, AIOps alert noise by **80%+**, and SNOW ticket volume by **~60%**, using Grafana Cloud and OpenTelemetry.
+I design and operate large-scale observability platforms. Currently leading a global observability
+transformation at **McCain Foods** — 200+ workloads across Azure, on-premises, and SAP RISE —
+reducing observability provisioning time **from 3 days to 30 minutes**, AIOps alert noise by
+**80%+**, and SNOW ticket volume by **~60%**, using Grafana Cloud and OpenTelemetry.
 
 📄 **Patent holder** in the observability domain.  
 🕐 14 years across full-stack, performance engineering, platform engineering, and SRE.
@@ -37,6 +40,7 @@ I design and operate large-scale observability platforms. Currently leading a gl
 | **observability-samples** _(private)_                                                   | NA                                                                                                                       |
 | **platform-samples** _(private)_                                                        | NA                                                                                                                       |
 | **app-samples** _(private)_                                                             | NA                                                                                                                       |
+| **obs-azure-resource-exporter-grafana-cloud** _(private)_                               | NA                                                                                                                       |
 
 ---
 
