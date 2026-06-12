@@ -41,6 +41,7 @@ reducing observability provisioning time **from 3 days to 30 minutes**, AIOps al
 | **platform-samples** _(private)_                                                        | NA                                                                                                                       |
 | **app-samples** _(private)_                                                             | NA                                                                                                                       |
 | **obs-azure-resource-exporter-grafana-cloud** _(private)_                               | NA                                                                                                                       |
+| **agenticai-persona-harness** _(private)_                                               | NA                                                                                                                       |
 
 ---
 
