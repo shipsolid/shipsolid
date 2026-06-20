@@ -4,14 +4,15 @@
 
 > Grafana Cloud · OpenTelemetry · Kubernetes · Terraform · Azure
 
-**Open to Principal / Staff SRE and Observability Architect roles** — [connect on LinkedIn](https://linkedin.com/in/amitsingh007s)
+**Open to Principal / Staff SRE and Observability Architect roles** —
+[connect on LinkedIn](https://linkedin.com/in/amitsingh007s)
 
 ---
 
 Observability Architect & Platform Engineer with 14+ years building developer and observability
 platforms across global financial and enterprise organisations. M.Tech from BITS, Pilani. Currently
-leading **McCain Foods**' global observability transformation — a unified telemetry platform spanning
-Azure, on-premises, and SAP RISE.
+leading **McCain Foods**' global observability transformation — a unified telemetry platform
+spanning Azure, on-premises, and SAP RISE.
 
 My work sits at the intersection of platform engineering, SRE, and applied AI. I think in
 signal-to-noise ratios, cardinality budgets, and MTTR. Patent holder in the observability and
@@ -22,16 +23,16 @@ honours.
 
 ## Impact
 
-| Metric | Before | After |
-| --- | ---: | ---: |
-| Observability provisioning time | 3 days | **30 minutes** |
-| AIOps alert noise | baseline | **−80%+** |
-| SNOW ticket volume | baseline | **−60%** |
-| MTTD | baseline | **−90%** |
-| MTTR | baseline | **−70%** |
-| Workloads covered | — | **200+** (Azure · on-prem · SAP RISE) |
-| Engineers mentored | — | **50+** |
-| Annualized savings | — | **$1.5M+** |
+| Metric                          |   Before |                                 After |
+| ------------------------------- | -------: | ------------------------------------: |
+| Observability provisioning time |   3 days |                        **30 minutes** |
+| AIOps alert noise               | baseline |                             **−80%+** |
+| SNOW ticket volume              | baseline |                              **−60%** |
+| MTTD                            | baseline |                              **−90%** |
+| MTTR                            | baseline |                              **−70%** |
+| Workloads covered               |        — | **200+** (Azure · on-prem · SAP RISE) |
+| Engineers mentored              |        — |                               **50+** |
+| Annualized savings              |        — |                            **$1.5M+** |
 
 ---
 
@@ -43,9 +44,9 @@ Granted · India + US &nbsp;·&nbsp; Wipro Technologies &nbsp;·&nbsp; 2015
 Automated global performance reporting that reduced manual effort from **31 hours → 2 minutes** per
 cycle — saving **6,000+ engineering hours/year** and **$1.2M+ annually** across 20+ global teams.
 
-| India Patent No. | US Patent No. |
-| --- | --- |
-| `3327/CHE/2015` | `KNS.BFSI.0353IN1` |
+| India Patent No. | US Patent No.      |
+| ---------------- | ------------------ |
+| `3327/CHE/2015`  | `KNS.BFSI.0353IN1` |
 
 ---
 
@@ -99,20 +100,20 @@ cycle — saving **6,000+ engineering hours/year** and **$1.2M+ annually** acros
 
 ## Certifications & Education
 
-| Credential | Issuer |
-| --- | --- |
-| GitHub Actions Certified | GitHub |
-| Azure Fundamentals (AZ-900) | Microsoft |
+| Credential                   | Issuer              |
+| ---------------------------- | ------------------- |
+| GitHub Actions Certified     | GitHub              |
+| Azure Fundamentals (AZ-900)  | Microsoft           |
 | M.Tech, Software Engineering | BITS, Pilani · 2015 |
 
 ---
 
 ## Open Work
 
-| Repo | Description |
-| --- | --- |
-| **[architect-learning-lab](https://github.com/shipsolid)** | Monorepo lab — 14 pillars spanning observability, SRE, platform engineering, IaC, AIOps, and autonomous reliability |
-| **[aiops-sre-agent](https://github.com/shipsolid/aiops-sre-agent)** | Experimental SRE agent — LLM-backed triage, playbook execution, and post-mortem generation on AKS |
+| Repo                                                                  | Description                                                                                                           |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **[architect-learning-lab](https://github.com/shipsolid)**            | Monorepo lab — 14 pillars spanning observability, SRE, platform engineering, IaC, AIOps, and autonomous reliability   |
+| **[aiops-sre-agent](https://github.com/shipsolid/aiops-sre-agent)**   | Experimental SRE agent — LLM-backed triage, playbook execution, and post-mortem generation on AKS                     |
 | **[app-signal-forge](https://github.com/shipsolid/app-signal-forge)** | OTel validation lab — configurable signal generator for testing Alloy pipelines, cardinality budgets, and alert rules |
 
 ---
@@ -121,27 +122,27 @@ cycle — saving **6,000+ engineering hours/year** and **$1.2M+ annually** acros
 
 **Speaking**
 
-| Title | Venue | Date |
-| --- | --- | --- |
+| Title                                                         | Venue                           | Date     |
+| ------------------------------------------------------------- | ------------------------------- | -------- |
 | From Reactive to Resilient — McCain's Observability in Motion | CTO Presentation · McCain Foods | Mar 2026 |
 
 _On the radar: KubeCon / CNCF · SREcon · Grafana ObservabilityCON_
 
 **Writing — [shipsolid.github.io/blog](https://shipsolid.github.io/blog)**
 
-| Title | Date |
-| --- | --- |
-| Why Cardinality Kills Observability Platforms (and How to Stop It) | Apr 2026 |
-| Building an SRE Agent: From Playbook to Autonomous Incident Response | May 2026 |
-| The Terraform Module That Has No Provider: YAML Registry for Multi-Tenant Grafana | May 2026 |
-| The Grafana Terraform Provider Silently Drops LBAC Rules — and the Three-Layer Fix | May 2026 |
+| Title                                                                                     | Date     |
+| ----------------------------------------------------------------------------------------- | -------- |
+| Why Cardinality Kills Observability Platforms (and How to Stop It)                        | Apr 2026 |
+| Building an SRE Agent: From Playbook to Autonomous Incident Response                      | May 2026 |
+| The Terraform Module That Has No Provider: YAML Registry for Multi-Tenant Grafana         | May 2026 |
+| The Grafana Terraform Provider Silently Drops LBAC Rules — and the Three-Layer Fix        | May 2026 |
 | The Self-Silencing Anti-Pattern: Why Your Observability Stack Goes Blind When You Need It | May 2026 |
-| How Alloy's Default max_shards Turned a Mimir Blip Into a Production Blackout | May 2026 |
-| Agent Memory as Infrastructure: The Context Injection Pattern That Replaces Fine-Tuning | Jun 2026 |
-| Azure provisioning_state: Succeeded Is Not a Health Signal — It Never Was | Jun 2026 |
-| Structural Limits of the Grafana Azure Monitor Plugin — and a Push Exporter Fix | Jun 2026 |
-| HTTP 400 From Grafana Cloud Mimir: The Snappy Block Format Trap in Remote Write | Jun 2026 |
-| Build Day: Agent Harness & Memory — Key Learnings on Context Engineering | Jun 2026 |
+| How Alloy's Default max_shards Turned a Mimir Blip Into a Production Blackout             | May 2026 |
+| Agent Memory as Infrastructure: The Context Injection Pattern That Replaces Fine-Tuning   | Jun 2026 |
+| Azure provisioning_state: Succeeded Is Not a Health Signal — It Never Was                 | Jun 2026 |
+| Structural Limits of the Grafana Azure Monitor Plugin — and a Push Exporter Fix           | Jun 2026 |
+| HTTP 400 From Grafana Cloud Mimir: The Snappy Block Format Trap in Remote Write           | Jun 2026 |
+| Build Day: Agent Harness & Memory — Key Learnings on Context Engineering                  | Jun 2026 |
 
 ---
 
